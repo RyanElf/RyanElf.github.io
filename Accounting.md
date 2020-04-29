@@ -22,6 +22,6 @@
 |18|Allowance for Uncollectibles (bad debts)|備抵呆帳|
 |19|Bad debt expenses|呆帳費用|
 |20|Contingent liability|或有負債|
- 
+
 <br>
 <br>
