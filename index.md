@@ -6,6 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Contents
 1.If you're interesting in Accounting, please click [Here](https://ryanelf.github.io/Accounting) for your reference.
+2.If you're interesting in Risk Management, please click [Here](https://ryanelf.github.io/Accounting/RiskManagement) for your reference.
 
 ### Markdown
 
