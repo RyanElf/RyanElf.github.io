@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-```markdown
+
 # 會計英文詞彙
 
 |序號|英文|中文|
@@ -51,10 +51,6 @@ Syntax highlighted code block
 |18|Allowance for Uncollectibles (bad debts)|備抵呆帳|
 |19|Bad debt expenses|呆帳費用|
 |20|Contingent liability|或有負債|
-
-<br>
-<br>
-```
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
